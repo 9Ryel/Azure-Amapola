@@ -1,10 +1,6 @@
 # EJERCICIO AZUREPowerShell & AZURECLI
 
-<span align="center">
-
 ## AzurePowerShell
-
-</span>
 
 ## 1 - Conexión
 
